@@ -43,4 +43,4 @@ Multiple charts are generated using `matplotlib` and `seaborn` to understand pat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-link.git
+   git clone https://github.com/LavanyaChowdam23/EDA.git
