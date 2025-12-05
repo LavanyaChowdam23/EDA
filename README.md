@@ -3,16 +3,6 @@
 This repository contains an Exploratory Data Analysis (EDA) performed on a **menu dataset** using Python.  
 The notebook explores dataset structure, missing values, distributions, correlations, and visual insights to better understand the food items and their nutritional patterns.
 
----
-
-## 📂 Dataset
-
-Upload the CSV file here:  
-👉 **[Google Drive Upload Link](PASTE_YOUR_DRIVE_LINK_HERE)**
-
-Update the notebook with the correct file path if needed.
-
----
 
 ## 🛠️ Technologies Used
 
